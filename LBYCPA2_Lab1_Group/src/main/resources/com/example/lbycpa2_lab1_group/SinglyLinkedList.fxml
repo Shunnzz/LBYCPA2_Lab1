@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.lbycpa2_lab1_group.HelloController">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="87.0" layoutX="14.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" width="99.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="87.0" layoutX="14.0" layoutY="157.0" stroke="BLACK" strokeType="INSIDE" width="99.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="87.0" layoutX="14.0" layoutY="299.0" stroke="BLACK" strokeType="INSIDE" width="99.0" />
+      <Line endX="-0.4999885559082031" endY="54.99998474121094" layoutX="64.0" layoutY="102.0" startX="-0.5000038146972656" startY="-1.0000152587890625" />
+      <Line endX="-0.4999885559082031" endY="54.99998474121094" layoutX="63.0" layoutY="246.0" startX="-0.5000038146972656" startY="-1.0000152587890625" />
+      <Circle fill="WHITE" layoutX="64.0" layoutY="100.0" radius="9.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="64.0" layoutY="158.0" radius="9.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="62.0" layoutY="244.0" radius="9.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="63.0" layoutY="302.0" radius="9.0" stroke="BLACK" strokeType="INSIDE" />
+      <Text layoutX="56.0" layoutY="68.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1">
+         <font>
+            <Font name="System Bold" size="28.0" />
+         </font>
+      </Text>
+      <Text layoutX="56.0" layoutY="211.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2">
+         <font>
+            <Font name="System Bold" size="28.0" />
+         </font>
+      </Text>
+      <Text layoutX="55.0" layoutY="353.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3">
+         <font>
+            <Font name="System Bold" size="28.0" />
+         </font>
+      </Text>
+      <Text layoutX="257.0" layoutY="68.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Delivery Operation">
+         <font>
+            <Font name="System Bold" size="28.0" />
+         </font>
+      </Text>
+      <Text layoutX="329.0" layoutY="172.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Explanation" />
+   </children>
+</AnchorPane>

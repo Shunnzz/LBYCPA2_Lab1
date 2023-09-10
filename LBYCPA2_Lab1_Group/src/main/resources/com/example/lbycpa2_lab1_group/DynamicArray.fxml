@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Ellipse?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.lbycpa2_lab1_group.HelloController">
+   <children>
+      <Ellipse fill="DODGERBLUE" layoutX="116.0" layoutY="123.0" radiusX="64.0" radiusY="95.0" stroke="BLACK" strokeType="INSIDE" />
+      <Line endX="-34.79998779296875" endY="78.60003662109375" layoutX="134.0" layoutY="271.0" startX="-18.0" startY="-53.00001525878906" />
+      <Text layoutX="359.0" layoutY="66.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Balloon">
+         <font>
+            <Font name="System Bold" size="35.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

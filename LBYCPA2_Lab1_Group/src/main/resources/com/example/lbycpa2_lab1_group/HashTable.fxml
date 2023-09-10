@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.lbycpa2_lab1_group.HelloController">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="37.0" layoutX="14.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" width="152.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="37.0" layoutX="14.0" layoutY="58.0" stroke="BLACK" strokeType="INSIDE" width="152.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="37.0" layoutX="14.0" layoutY="102.0" stroke="BLACK" strokeType="INSIDE" width="152.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="37.0" layoutX="14.0" layoutY="147.0" stroke="BLACK" strokeType="INSIDE" width="152.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#dde410" height="171.0" layoutX="192.0" layoutY="14.0" stroke="BLACK" strokeType="INSIDE" width="122.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#3ebd2a" height="171.0" layoutX="346.0" layoutY="11.0" stroke="BLACK" strokeType="INSIDE" width="240.0" />
+      <Line endX="-63.0" endY="141.99998474121094" layoutX="447.0" layoutY="40.0" startX="-63.0" startY="-28.999996185302734" />
+      <Line endX="139.0" endY="-1.1444091796875E-5" layoutX="447.0" layoutY="42.0" startX="-100.0" />
+      <Line endX="139.0" endY="-1.52587890625E-5" layoutX="447.0" layoutY="76.0" startX="-100.0" />
+      <Line endX="139.0" endY="-1.52587890625E-5" layoutX="447.0" layoutY="110.0" startX="-100.0" />
+      <Line endX="139.0" endY="-1.52587890625E-5" layoutX="447.0" layoutY="147.0" startX="-100.0" />
+      <Text layoutX="355.0" layoutY="37.0" strokeType="OUTSIDE" strokeWidth="0.0" text="00">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Text>
+      <Text layoutX="355.0" layoutY="70.0" strokeType="OUTSIDE" strokeWidth="0.0" text="01">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Text>
+      <Text layoutX="355.0" layoutY="108.0" strokeType="OUTSIDE" strokeWidth="0.0" text="03">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Text>
+      <Text layoutX="355.0" layoutY="145.0" strokeType="OUTSIDE" strokeWidth="0.0" text="04">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Text>
+      <Text layoutX="355.0" layoutY="178.0" strokeType="OUTSIDE" strokeWidth="0.0" text="05">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Text>
+      <Line endX="61.0" endY="-1.1444091796875E-5" layoutX="253.0" layoutY="50.0" startX="-61.0" startY="-1.1444091796875E-5" />
+      <Line endX="61.0" endY="-1.52587890625E-5" layoutX="253.0" layoutY="138.0" startX="-61.0" startY="-1.1444091796875E-5" />
+      <Line endX="63.0" endY="-1.1444091796875E-5" layoutX="251.0" layoutY="165.0" startX="-59.0" startY="-1.52587890625E-5" />
+      <Line endX="61.0" endY="-1.1444091796875E-5" layoutX="253.0" layoutY="32.0" startX="-61.0" startY="-1.1444091796875E-5" />
+      <Text layoutX="240.0" layoutY="112.0" strokeType="OUTSIDE" strokeWidth="0.0" text="#">
+         <font>
+            <Font name="System Bold" size="44.0" />
+         </font>
+      </Text>
+      <Line endX="11.0" endY="-114.80000305175781" layoutX="181.0" layoutY="166.0" startX="-15.0" startY="-0.5000152587890625" />
+      <Line endX="-59.4000244140625" endY="123.80000305175781" layoutX="253.0" layoutY="41.0" startX="-87.0" startY="-8.500011444091797" />
+      <Line endX="-71.5999755859375" endY="19.199996948242188" layoutX="266.0" layoutY="120.0" startX="-100.0" />
+      <Line endX="-38.69293212890625" endY="-26.207103729248047" layoutX="233.0" layoutY="58.0" startX="-67.0" startY="18.499984741210938" />
+      <Line endX="-70.0" endY="-3.799999237060547" layoutX="416.0" layoutY="63.0" startX="-101.5" startY="-13.500011444091797" />
+      <Line endX="-69.0" endY="-3.5000152587890625" layoutX="415.0" layoutY="100.0" startX="-100.5" startY="-67.50001525878906" />
+      <Line endX="-171.99996948242188" endY="-133.1999969482422" layoutX="518.0" layoutY="158.0" startX="-203.29290771484375" startY="-19.292922973632812" />
+      <Line endX="-69.0" endY="-48.29292297363281" layoutX="415.0" layoutY="214.0" startX="-100.29290771484375" startY="-48.29292297363281" />
+      <Text layoutX="392.0" layoutY="35.0" strokeType="OUTSIDE" strokeWidth="0.0" text="09172679436">
+         <font>
+            <Font name="System Bold Italic" size="21.0" />
+         </font>
+      </Text>
+      <Text layoutX="392.0" layoutY="72.0" strokeType="OUTSIDE" strokeWidth="0.0" text="09176298437">
+         <font>
+            <Font name="System Bold Italic" size="21.0" />
+         </font>
+      </Text>
+      <Text layoutX="392.0" layoutY="105.0" strokeType="OUTSIDE" strokeWidth="0.0" text="09053278194">
+         <font>
+            <Font name="System Bold Italic" size="21.0" />
+         </font>
+      </Text>
+      <Text layoutX="392.0" layoutY="145.0" strokeType="OUTSIDE" strokeWidth="0.0" text="09062145874">
+         <font>
+            <Font name="System Bold Italic" size="21.0" />
+         </font>
+      </Text>
+      <Text layoutX="392.0" layoutY="180.0" strokeType="OUTSIDE" strokeWidth="0.0" text="09375828472">
+         <font>
+            <Font name="System Bold Italic" size="21.0" />
+         </font>
+      </Text>
+      <Text layoutX="23.0" layoutY="40.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Joseph">
+         <font>
+            <Font name="System Bold Italic" size="21.0" />
+         </font>
+      </Text>
+      <Text layoutX="23.0" layoutY="87.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Mellisa">
+         <font>
+            <Font name="System Bold Italic" size="21.0" />
+         </font>
+      </Text>
+      <Text layoutX="21.0" layoutY="131.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hope">
+         <font>
+            <Font name="System Bold Italic" size="21.0" />
+         </font>
+      </Text>
+      <Text layoutX="21.0" layoutY="179.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Kendall">
+         <font>
+            <Font name="System Bold Italic" size="21.0" />
+         </font>
+      </Text>
+      <Text layoutX="141.0" layoutY="223.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hash Table (Phone Book)">
+         <font>
+            <Font name="System Bold" size="21.0" />
+         </font>
+      </Text>
+      <Text layoutX="222.0" layoutY="263.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Explanation" />
+   </children>
+</AnchorPane>
